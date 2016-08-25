@@ -3213,3 +3213,8 @@
     #homeLogo {
         margin-top: 13px;
     }
+
+    #galleria {
+        width: 96%;
+        min-height: 400px;
+    }
